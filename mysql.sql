@@ -1,0 +1,1 @@
+ select*from cape_codd.order_item where extendedPrice between 100 AND 200 order by EXTENDEDPRICE ASC
